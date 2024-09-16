@@ -108,9 +108,13 @@ Department of Earth Science and Engineering, Imperial College London, London, UK
 
 ## Published software
 
-1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses.\ CRAN: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/). GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).  
+1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses.\
+CRAN: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/).\
+GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).  
 
-2. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database.\ CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/). GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).  
+2. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database.\
+CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/).\ 
+GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).  
 
 ## Academic awards and grants
 
